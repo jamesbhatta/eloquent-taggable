@@ -56,7 +56,7 @@ the _master_ branch by default, which might not be what you want).
 1. Install the `cviebrock/eloquent-taggable` package via composer:
 
     ```sh
-    $ composer require cviebrock/eloquent-taggable
+    composer require cviebrock/eloquent-taggable
     ```
 
     The package will automatically register its service provider.
